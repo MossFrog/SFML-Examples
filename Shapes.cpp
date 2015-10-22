@@ -68,9 +68,9 @@ int main()
 		window.draw(myOctagon);
 		window.draw(myTriangle);
 
-        window.display();
+		window.display();
 		
-    }
+	}
 
     return 0;
 }
